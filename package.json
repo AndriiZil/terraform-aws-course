@@ -1,0 +1,21 @@
+{
+  "name": "aws-terraform",
+  "version": "1.0.0",
+  "description": "```     terraform apply -out out.terraform     terraform apply out.teraform ```",
+  "main": "index.js",
+  "scripts": {
+    "format": "terraform fmt",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndriiZil/terraform-aws-course.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AndriiZil/terraform-aws-course/issues"
+  },
+  "homepage": "https://github.com/AndriiZil/terraform-aws-course#readme"
+}
