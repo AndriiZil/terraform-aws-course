@@ -15,3 +15,8 @@
 ```
     terraform.tfvars
 ```
+
+### Generate public and private key
+```
+    ssh-keygen -f mykey
+```
